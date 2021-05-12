@@ -1,0 +1,5 @@
+I don't care what universe you're from, that's gotta hurt!
+5 8 11 14 17 20
+d 582
+32 45
+# do not include - data reads 0 10 1 2 14 6 15
